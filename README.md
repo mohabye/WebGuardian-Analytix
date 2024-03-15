@@ -1,4 +1,5 @@
-all you need to do is giveing the tool the path of the file and it will analysis the file 
+
+Simply provide the tool with the file path, and it will analyze the file for you
 
 ![image](https://github.com/mohabye/WebGuardian-Analytix/assets/76062472/cfc755c8-692e-4ffa-a6cc-a39e270a9eb9)
 
